@@ -152,12 +152,12 @@ If a device with the given identifier already exists, then the error generated w
 
 **Steps For Database Configuration**
 
-- `Download 'ShorelineIot.db' to your desktop and Open Chrome/Any Browser`
-- `Use Phpmyadmin to manage your MySQL database (We are using XAMPP Server)`
-- `Use the SQL Query "'CREATE DATABASE shorelineiot;"' to create an empty database.`
-- `Select the 'Shorelineiot.db' in Import Tab/ drag and drop the 'Shorelineiot.db' into the Import Page.`
-- `After the file has been uploaded, scroll down to the bottom and click the "GO" button.`
-- `Now, you can check the database configured as per our requirement.`
+- Download 'ShorelineIot.db' to your desktop and Open Chrome/Any Browser
+- Use Phpmyadmin to manage your MySQL database (We are using XAMPP Server)
+- Use the SQL Query "'CREATE DATABASE shorelineiot;"' to create an empty database.
+- Select the 'Shorelineiot.db' in Import Tab/ drag and drop the 'Shorelineiot.db' into the Import Page.
+- After the file has been uploaded, scroll down to the bottom and click the "GO" button.
+- Now, you can check the database configured as per our requirement.
 
 
 ### Some Generated MAC Addresses:
