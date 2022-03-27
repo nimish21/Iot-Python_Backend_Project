@@ -1,0 +1,6 @@
+Flask==2.0.3
+Flask-MySQL==1.5.2
+Flask-MySQLdb==1.0.1
+Markdown==3.3.6
+requests==2.25.1
+urllib3==1.26.5
