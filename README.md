@@ -1,4 +1,4 @@
-# ShorelineIot Device Registry Service
+# Device Registry Service Using Flask
 
 ## Run Service
 
@@ -152,7 +152,7 @@ If a device with the given identifier already exists, then the error generated w
 
 **Steps For Database Configuration**
 
-- Download 'ShorelineIot.db' to your desktop and Open Chrome/Any Browser
+- Download 'Iot.db' to your desktop and Open Chrome/Any Browser
 - Use Phpmyadmin to manage your MySQL database (We are using XAMPP Server)
 - Use the SQL Query "'CREATE DATABASE shorelineiot;"' to create an empty database.
 - Select the 'Shorelineiot.db' in Import Tab/ drag and drop the 'Shorelineiot.db' into the Import Page.
